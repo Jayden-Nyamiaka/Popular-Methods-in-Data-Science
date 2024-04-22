@@ -1,0 +1,18 @@
+Appendix
+Variable names and labels:
+    datadate – Date of observation
+    gvkey – Company identifier
+    capxv – Capital expenditure on property, plant and equipment (in thousands of dollars)
+    dltt – Long-term debt (in thousands of dollars)
+    dpc – Depreciation and amortization – cash flow (in thousands of dollars)
+    invt – Inventories (in thousands of dollars)
+    oancf – Operating activities – net cash flow (in thousands of dollars)
+    oiadp – Operating income after depreciation (in thousands of dollars)
+    ppeveb - Property, plant, and equipmrnt – End Balance (in thousands of dollars)
+    ppevbb - Property, plant, and equipmrnt – Beginning Balance (in thousands of dollars)
+    sppe – Sales of property, plant, and equipment (in thousands of dollars)
+    pstkrv – Preferred stock – redemption value
+    naics – North American Industry Classification Code
+    sic – Standard Industry Classification Code
+    prc – Stock price at the end of day on datadate
+    shrout – Number of stocks outstanding
